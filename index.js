@@ -1,4 +1,4 @@
-let inputNum = 7;
+let inputNum = 56;
 
 document.getElementById("input").textContent = inputNum; // Changes input to hard coded input.
 
